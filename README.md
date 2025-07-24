@@ -22,8 +22,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmed-sabry-209601222" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.icons8.com/fluency/30/gmail.png" alt="email" /></a>
-  <a href="https://Ahmedsabry11.github.io"><img align="center" src="https://img.icons8.com/fluency/30/domain.png" alt="website" /></a>
+  <a href="mailto:ahmedsabry232345@gmail.com"><img align="center" src="https://img.icons8.com/fluency/30/gmail.png" alt="email" /></a>
+  <a href="https://https://github.com/Ahmedsabry11/"><img align="center" src="https://img.icons8.com/fluency/30/github.png" alt="website" /></a>
 </p>
 
 ---
